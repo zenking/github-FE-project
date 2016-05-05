@@ -4,7 +4,8 @@
 
 ![图片描述][1]
 ---
->https://plainjs.com/（10.22更新）
+>https://plainjs.com
+（10.22更新）
 
 The Vanilla JavaScript Repository，该仓库都是用原生`js`写的插件和组件，很实用。里面的项目也都托管到了github
 
